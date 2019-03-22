@@ -2,4 +2,6 @@
 
 	email = hendrik.suvalov@tudeng.ut.ee
 	
-	name = Hendrik
+
+
+pip-log.txt are the installer logs
